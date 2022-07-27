@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f3f1ff;
+}
+
+
+
+footer {
+  text-align: center;
+  background-color: #000;
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+footer span {
+  color: #aeaeae;
+}
+
+footer h4 {
+  font-size: 20px;
+}
+
+.footer-icon {
+  font-size: 20px;
+  color: #aeaeae;
+  margin: 15px 0;
+}
+
+footer i {
+  margin-right: 10px;
+}
